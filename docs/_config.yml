@@ -2,8 +2,8 @@ repository: ashish-ram/hello_nbdev
 output: web
 topnav_title: hello_nbdev
 site_title: hello_nbdev
-company_name: Put your copyright information here
-description: This is a test module using nbdev
+company_name: mit
+description: sample description for nbdev test project!!!
 # Set to false to disable KaTeX math
 use_math: true
 # Add Google analytics id if you have one and want to use it here

@@ -2,9 +2,13 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"plot_x_y": "00_utils.ipynb",
+         "say_hello_ingestion": "01_ingestion.ipynb",
+         "say_hello_EDA": "02_EDA.ipynb"}
 
-modules = []
+modules = ["utils.py",
+           "ingestion.py",
+           "EDA.py"]
 
 doc_url = "https://ashish-ram.github.io/hello_nbdev/"
 
