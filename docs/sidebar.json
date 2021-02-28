@@ -1,0 +1,8 @@
+{
+  "hello_nbdev": {
+    "Overview": "/",
+    "This submodule will contain all the utility methods which are used across all submodules": "utils.html",
+    "This submodule is for data ingestion": "ingestion.html",
+    "submodule for Exploratary data analytics": "EDA.html"
+  }
+}
